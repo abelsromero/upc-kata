@@ -1,0 +1,10 @@
+= UPC Kata
+:imagesdir: ./docs/images
+
+This repos is a test to see how to organize some code katas.
+
+image::wip-sign.png[]
+
+== Proposal
+
+How about we just create an isse and people can comment or +1 there to signal they want to join?
